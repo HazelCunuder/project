@@ -16,7 +16,7 @@ Or you could *maybe* help me understand this text formatting system a little mor
 
 Vi you suck still
 
-
+This is my way of testing the status thingie
 
 
 
